@@ -102,6 +102,5 @@ Vianca Liza Maldonado – 2025-3294.
 
 Windfree Figueroa – 2017-3156.
 
-10. Repositorio
-Enlace al repositorio de GitHub: [Agregar enlace cuando el repositorio esté creado]
+
 
