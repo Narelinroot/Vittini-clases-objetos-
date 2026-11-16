@@ -24,8 +24,11 @@ Desarrollar una aplicación de consola que permita aplicar los fundamentos de la
 Los datos de entrada corresponden a la información proporcionada por el usuario durante el registro de cada producto.
 
 Código: Código del producto.
+
 Nombre: Nombre del producto.
+
 Precio: Precio del producto.
+
 Cantidad: Cantidad disponible del producto.
 
 La aplicación solicita estos cuatro datos para cada uno de los tres productos que se registran.
@@ -70,10 +73,15 @@ Una vez completado el registro, el programa presenta en la consola la informaci�
 Los resultados mostrados incluyen:
 
 Código del producto.
+
 Nombre del producto.
+
 Precio.
+
 Cantidad.
+
 Valor total.
+
 De esta manera, se obtiene una visualización organizada de los productos registrados y del valor correspondiente a las unidades disponibles de cada uno.
 
 6. Estructura del proyecto
@@ -90,8 +98,11 @@ Program.cs: Contiene el método principal Main(), desde el cual se solicitan los
 
 
 Lenguaje de programación: C#.
+
 Entorno de desarrollo: Visual Studio Community.
+
 Tipo de aplicación: Consola.
+
 Paradigma de programación: Programación orientada a objetos.
 
 8. Evidencias de funcionamiento
